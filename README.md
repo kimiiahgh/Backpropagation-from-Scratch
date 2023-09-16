@@ -1,1 +1,2 @@
 # Backpropagation-from-Scratch
+In this repository, the code of backpropagation is available. The fully connected model consists of three hidden layer with three neurons in each layer and it is trained on IRIS dataset using GD optimizer. Moreover, the sigmoid fucntion is used as the active function. In addition, in order to initialize the wights, a normal distribution with zero mean and one as variance is used. Furthermore, MSE is used as loss function.
